@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/sflittrell/sflittrell.github.io/blob/dev/img/BlogHeader.jpg">
 # My Awesome Inc Bootcamp Blog
 
 This blog is dedicated to chronicling my experiences and insights into my time with Awesome Inc and the Web Development Bootcamp. Feel free to peruse the sight and find out a little bit about what it is like to take those first steps into becoming a bonafide Web Developer.
@@ -8,7 +9,7 @@ This blog is dedicated to chronicling my experiences and insights into my time w
 <details><summary>Week One - PreWork</summary>
 
 <hr>
-Whew! What a week. I had expected to be challenged but I wasn’t prepared for this. There is so much information coming at you from all sides it can be overwhelming. I have to admit, I got sucked down a hole once or twice, surfacing 5 hours later after finding myself clicking that next link that would finally tell me the entomological origins of of the ~ in coding languages. It’s a trap I tell you! Anyway, it has been challenging but rewarding as well.
+Whew! What a week. I had expected to be challenged but I wasn’t prepared for this. There is so much information coming at you from all sides it can be overwhelming. I have to admit, I got sucked down a hole once or twice, surfacing 5 hours later after finding myself clicking that next link that would finally tell me the etymological origins of of the ~ in coding languages. It’s a trap I tell you! Anyway, it has been challenging but rewarding as well.
 
 <br><img align="right" width="200" height="140" src="https://github.com/sflittrell/sflittrell.github.io/blob/dev/img/FrustrationImage.jpg?raw=true"> One of the first things all of us here in the Bootcamp truly experienced was the philosophy of *fail fast, fail often, fail forward*. This first week was filled with quite a few stumbles and failures. Working with Git in terminal was one such example. It seemed like an insurmountable tangle of confusion. All the commands, pushing and pulling, incorporating VS Code, talking with Github. Blah! It made my head hurt.<br>
 
