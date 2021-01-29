@@ -16,4 +16,6 @@ Whew! What a week. I had expected to be challenged but I wasn’t prepared for t
 
 At first I saw Git as a program that we would be using to create projects, but then I had an epiphany! Git was a simple, iterative file system not some mysterious, all powerful programing behemoth. All it did was store and keep track of changes you make to files and folders, changes made **using other tools**. Git wasn’t the tool itself! Once I realized that, everything started to come together. Little concepts and ideas started to fall into place and the real work of learning could begin. Not to say everything was peaches and cream. There were still some stumbling blocks here and there, but they didn’t feel insurmountable. I had the confidence to move forward because I had failed and overcome.<br>
 
-This first week has been a challenge but also fun. Does that make me a masochist? Who knows. Until next week.
+This first week has been a challenge but also fun. Does that make me a masochist? Who knows. Let's jump off that cliff together. Until next week.
+
+![Falling of Cliff](https://media.giphy.com/media/kPxPY02zEIuGs/giphy.gif)
