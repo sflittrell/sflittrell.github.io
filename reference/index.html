@@ -6,15 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"> -->
+    <link href="./css/bootstrap5-theme.css" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
 
     <title>Steven's Blog</title>
   </head>
   <body>
     <nav class="navbar sticky-top navbar-dark bg-dark navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Steven Littrell</a>
+          <a class="navbar-brand" href="#"><span class="fw-light">Steven</span> <span class="fw-bold text-danger">Littrell</span></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -24,6 +25,7 @@
               <a class="nav-link" href="#">Portfolio</a>
               <a class="nav-link" href="#">Resume</a>
               <a class="nav-link" href="#">Blog</a>
+              <a class="nav-link" href="#">Contact</a>
             </div>
           </div>
         </div>
@@ -32,11 +34,11 @@
       <div class="container-fluid">
           <div class="row">
               <div class="col p-0">
-                <div class="card bg-dark text-white d-flex">
+                <div class="card bg-dark rounded-0 text-white d-flex">
                   <img class="img-fluid" src="./img/Header1.png">
                   <div class="card-img-overlay mt-3 text-center position-absolute top-50 start-50 translate-middle">
                     <h1 class="card-title fw-bold h1_shadow">Follow My Journey</h1>
-                    <h3 class="h3_shadow">To Full Stack Developer</h3>
+                    <h3 class="h3_shadow fw-light">To Full Stack Developer</h3>
                     <div class="row">
                         <div class="col pt-5">
                             <a href="#blogPost" class="link-light">
@@ -55,15 +57,15 @@
           </div>
       </div>
 
-      <div class="container p-0">
+      <div class="container p-0 mt-5" id="blogPost">
           <div class="row">
               <div class="col mt-4">
                 <div class="card">
-                    <div class="card-header">
-                        <h2>Onboarding, Git, and Github</h2>
+                    <div class="card-header bg-secondary text-white">
+                        <h2><span class="fw-bold">Onboarding</span><span class="fw-light">, Git, and Github</span></h2>
                     </div>
                     <div class="card-body">
-                      <h5 class="card-title">Week One - PreWork</h5>
+                      <h5 class="card-title text-dark">PreWork - Week One</h5>
                       <p>
                         Whew! What a week. I had expected to be challenged but I wasn’t prepared for this. There is so much information coming at you from all sides it can be overwhelming. I have to admit, I got sucked down a hole once or twice, surfacing 5 hours later after finding myself clicking that next link that would finally tell me the etymological origins of of the ~ in coding languages. It’s a trap I tell you! Anyway, it has been challenging but rewarding as well.</p>
 
@@ -86,11 +88,11 @@
         <div class="row">
             <div class="col mt-4">
               <div class="card">
-                  <div class="card-header">
-                      <h2>HTML and CSS</h2>
+                  <div class="card-header bg-secondary text-white">
+                      <h2><span class="fw-bold">HTML</span><span class="fw-light"> and CSS</span></h2>
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title">Week Two - PreWork</h5>
+                    <h5 class="card-title text-dark">PreWork - Week Two</h5>
                     <p>So, week two of Bootcamp has come and gone and I’m feeling much more confident in myself and the experience. The second week was all about HTML and CSS. This week seemed a little liter then last. I think because I have had some experience in using it over the years. It was a great opportunity to refresh myself on HTML and learn a lot more about CSS. I can now see the potential and power of CSS for formatting and styling a site.</p>
 
                     <p>There wasn’t as much of a struggle this week as there was last. Don’t get me wrong, there were some missteps but most of those come down to my own carelessness, misspellings, typos, simple errors. I think I need to learn to be more patient and not rush to finish. It’s about the learning <strong>process</strong> and not the finished product.</p>

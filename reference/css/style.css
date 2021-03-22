@@ -1,0 +1,41 @@
+.h1_shadow {
+    font-size: 5rem;
+    text-shadow: 5px 5px 15px black;
+}
+
+.h3_shadow {
+    font-size: 3rem;
+    text-shadow: 3px 3px 5px black;
+}
+.arrow-shadow {
+    filter: drop-shadow(2px 2px 3px black);
+}
+
+.arrow-shadow:hover path {
+
+    fill: black;
+}
+
+/*
+Original Bootstrap Colors
+
+primary: #0D6EFD
+secondary: #6C757D
+success: #198754
+danger: #DC3545
+info: #0DCAF0
+warning: #FFC107
+light: #F8F9FA
+dark: #212529
+
+New Colors
+
+primary: #26547C
+secondary: #716A5C
+success: #648767
+danger: #DC3545
+info: #5AA9E6
+warning: #F6972C
+light: #FFFAFF
+dark: #250902
+*/
