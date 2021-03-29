@@ -1,0 +1,29 @@
+/* html, body {
+    height: 100vh;
+} */
+
+.h1_shadow {
+    font-size: 4rem;
+    text-shadow: 5px 5px 15px black;
+}
+
+.h3_shadow {
+    font-size: 3rem;
+    text-shadow: 3px 3px 5px black;
+}
+.h5_shadow {
+    font-size: 2rem;
+    text-shadow: 1px 1px 3px black;
+}
+.arrow-shadow {
+    filter: drop-shadow(2px 2px 3px black);
+}
+
+.arrow-shadow:hover path {
+
+    fill: black;
+}
+
+#plan {
+    transform: rotate(20deg);
+}
