@@ -2,6 +2,7 @@ import React from 'react';
 // import './App.css';
 import Nav from './Nav';
 import Home from './Home';
+import ProjectPage from './ProjectPage';
 
 
 class App extends React.Component {
@@ -27,6 +28,7 @@ class App extends React.Component {
           changePage={this.changePage}
         />
         <Home />
+        <ProjectPage />
       </div>
     );
   }
